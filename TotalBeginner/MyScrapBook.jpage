@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Person p = new Person();
 p.setName("Fred");
 p.setMaximumBooks(10);
+=======
+Person p = new Person();
+p.setName("Fred");
+p.setMaximumBooks(10);
+>>>>>>> origin/master
 p.getMaximumBooks()
